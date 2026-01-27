@@ -2,3 +2,4 @@ ini baris pertama file latihan.txt
 ini baris 2
 ini baris ke tiga
 ini baris 4
+ini baris 5
