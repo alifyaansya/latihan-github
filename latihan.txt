@@ -1,6 +1,4 @@
-latihan merge dari branch-coba2
 ini baris 2
 ini baris ke tiga
 ini baris 4
 ini baris 5
-ini baris 6
